@@ -2,9 +2,9 @@
 Project for the Udacity course
 # Implemented Amazon's Lightsail for this project.
 
-In your browser visit **http://54.144.244.87.xip.io/** to check out the Items Catalog from previous project.
 
 ## You can view JSON API structure on the following URLs:
+Coming soon...
 
 **Summary of configurations and software used:**
 
@@ -24,12 +24,6 @@ Restart Apache:
 
 `sudo apache2ctl restart`
 
-Visit the app in your browser **http://54.144.244.87.xip.io/**
-
-**/login route still not working for me. This is the Google Oauth login method - Any help will be appreciated!**
-
-
-Access server via SSH on port 2200 with username ***grader*** on 54.144.244.87
 **Summary of software installed on this Ubuntu server:**
 
 Apache2
